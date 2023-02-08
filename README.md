@@ -2,6 +2,10 @@
 
 ## Developer and *just a good person*
 
+<p align="center">
+ <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-olegfour3&color=green" />
+</p>
+
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)
