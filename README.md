@@ -5,6 +5,9 @@
 <p align="center">
  <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-olegfour3&color=green" />
 </p>
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -35,4 +38,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 
 -----
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=olegfour3)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olegfour3&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=olegfour3&layout=compact&theme=dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=olegfour3&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=olegfour3&show_icons=true&theme=dark)
+[![GitHub stats](https://metrics.lecoq.io/olegfour3)](https://metrics.lecoq.io/olegfour3)
