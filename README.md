@@ -35,6 +35,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 
 -----
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olegfour3&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=olegfour3&layout=compact&theme=dark)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=olegfour3&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=olegfour3&show_icons=true&theme=dark)
-[![GitHub stats](https://metrics.lecoq.io/olegfour3)](https://metrics.lecoq.io/olegfour3)
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=olegfour3&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Latand" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=olegfour3&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Latand" align = "center"/></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olegfour3&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Latand" /></p>
