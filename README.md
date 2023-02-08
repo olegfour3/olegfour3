@@ -17,7 +17,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
 ![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows11&logoColor=0078D4)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FCC624)
-
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=#2496ED)
+![nginx](https://img.shields.io/badge/-nginx-090909?style=for-the-badge&logo=nginx&logoColor=#009639)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/oleg_four)
