@@ -3,9 +3,6 @@
 ## Developer and *just a good person*
 
 <p align="center">
- <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-olegfour3&color=green" />
-</p>
-<p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
